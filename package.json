@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "styled-components": "^5.3.5",
+    "styled-modern-css-reset": "^1.0.4"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
@@ -26,7 +28,6 @@
     "eslint-plugin-react": "^7.28.0",
     "eslint-plugin-react-hooks": "^4.3.0",
     "prettier": "^2.7.1",
-    "sass": "^1.54.5",
     "vite": "^3.0.7"
   },
   "config": {
